@@ -9,8 +9,8 @@
 <ul>
 <li>Para executar os testes: </li>
 <ol>
-<i>npm run test</i>
-<i>npm run test:run</i>
+<li>npm run test</li>
+<li>npm run test:run</li>
 </ol>
 
 
