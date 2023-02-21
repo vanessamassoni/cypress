@@ -4,7 +4,8 @@
   "description": "Projeto de teste",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress open"
+    "test": "npx cypress open",
+    "test:run": "npx cypress run"
   },
   "author": "Vanessa",
   "license": "MIT",

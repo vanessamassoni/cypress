@@ -7,7 +7,10 @@
 </ol>
 <b>Para iniciar os testes, execute um dos seguintes comandos no terminal do VS Code:</b>
 <ul>
-<li>Para executar os testes: <i>npm run test</i></li>
+<li>Para executar os testes: 
+<i>npm run test</i>
+<i>npm run test:run</i>
+</li>
 
 
 </ul>
