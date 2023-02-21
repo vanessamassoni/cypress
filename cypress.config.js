@@ -3,7 +3,7 @@ const allureWriter = require('@shelex/cypress-allure-plugin/writer');
 
 module.exports = defineConfig({
   e2e: {
-    baseUrl: "http://awsultrage",
+    baseUrl: "https://primeng.org/setup",
 
     viewportWidth: 1200,
     viewportHeight: 760,
@@ -11,7 +11,7 @@ module.exports = defineConfig({
     defaultCommandTimeout: 40000, //tempo default de espera do cypress alterado para 40 segundos
     env: {
 
-      apiServer: "http://awsultrage",
+      apiServer: "http://",
       db: {
         host: "imsis",
         user: "imsi",
